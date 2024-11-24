@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
 export const metadata: Metadata = {
-  title: "Grid Layout",
-  description: "This is a grid layout assignment",
+  title: "Mini Hackathon Project",
+  description: "This is a Hackathon assignment",
 };
 
 export default function RootLayout({
